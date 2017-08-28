@@ -1,2 +1,4 @@
 # hello-world
-starter repo
+
+"Chaos is not a pit...
+        Chaos is a ladder."
